@@ -1,4 +1,4 @@
-### Hi there 👋
+## Bonjour 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdiephuis)](https://github.com/mdiephuis/github-readme-stats)
 
